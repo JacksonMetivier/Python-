@@ -1,1 +1,1 @@
-I used the FIFA data set off of Kaggle, renamed, reordered, and reformated some of the columns and uploaded two tables into a SQL database where I can more easily query data.
+I used the FIFA data set off of Kaggle, renamed, reordered, and reformated some of the columns and uploaded two tables into a SQL database where I can more easily query data.  This was done mainly using Pandas and normal Python logic such as for loops and if statements to sift through the data
